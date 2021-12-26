@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vikashdz) 
 
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+<img align='right' src="https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/coding-cat-01.gif?itok=cU-4PGna" width="230">
 
 A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Passionate About Coding and Enjoy.
 
