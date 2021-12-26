@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my course
+- 🔭 I’m currently working on my course..
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
