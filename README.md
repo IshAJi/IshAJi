@@ -32,5 +32,5 @@ A Web Developer With Excellent Skills and Ability To Perform Well in a Team. Pas
 
  **Connect with Me**
 ---
-[<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/IshAJi) [<img align="left" alt="Instagram - isha__-gupta__" width="30px" src="https://img.icons8.com/color/48/000000/instagram" />](https://www.instagram.com/satya.py)[<img align="left" alt="YouTube -Best Masters " width="30px" src="https://img.icons8.com/color/48/000000/youtube" />](https://www.youtube.com/channel/UCbx-Lke92ggLZI2ydUCsZuA) [<img align="left" alt="Email -Isha Gupta" width="30px" src="https://img.icons8.com/color/48/000000/gmail"/>](https://mail.google.com/mail/u/1/)
+[<img align="left" alt="Vikas" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />](https://github.com/IshAJi) [<img align="left" alt="Instagram - isha__-gupta__" width="30px" src="https://img.icons8.com/color/48/000000/instagram" />](https://www.instagram.com/)[<img align="left" alt="YouTube -Best Masters " width="30px" src="https://img.icons8.com/color/48/000000/youtube" />](https://www.youtube.com/channel/UCbx-Lke92ggLZI2ydUCsZuA) [<img align="left" alt="Email -Isha Gupta" width="30px" src="https://img.icons8.com/color/48/000000/gmail"/>](https://mail.google.com/mail/u/1/)
 
